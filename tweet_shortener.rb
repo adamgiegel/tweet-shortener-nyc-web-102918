@@ -46,8 +46,3 @@ end
 #   end
 # end
 
-def word_substituter(string)
-  new_array = string.to_a 
-  new_array.each do |word|
-    if word == dictionary["key"]
-      word == dictionary[]
